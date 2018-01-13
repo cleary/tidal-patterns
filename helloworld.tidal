@@ -1,0 +1,4 @@
+d1 $ sound "[ bd bd ]  [ sn sn bd ]/2"
+d2 $ sound "cp/2"
+d3 $ every 4 (fast 2) $ sound "bass*4" # speed "16 4 1 64"
+hush
